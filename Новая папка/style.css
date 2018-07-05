@@ -1,0 +1,47 @@
+body{
+	background: url(bg.gif) no-repeat fixed;
+}
+#solar{
+    position: absolute;
+    top: 250px;
+    left: 600px;
+}
+#solar img{
+	border-radius: 100%;
+    width: 200px;
+}
+img{
+	border-radius: 100%;
+    width: 100px;
+}
+#mercury{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+#venus{
+    position: absolute;
+    top: 500px;
+    left: 600px;
+}
+#earth{
+    position: absolute;
+    top: 600px;
+    left: 600px;
+}
+#marc{
+    position: absolute;
+    top: 700px;
+    left: 600px;
+}
+#jupiter{
+    position: absolute;
+    top: 800px;
+    left: 600px;
+}
+#saturn{
+    position: absolute;
+    top: 900px;
+    left: 600px;
+    transform: rotateX(20deg);
+}
