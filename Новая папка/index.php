@@ -16,5 +16,6 @@
 	<div id="jupiter"><img src="WME4.gif"></div>
 	<div id="saturn"><img src="tethys.gif"></div>
 	<div id="stanal"></div>
+	<div id="stana2"></div>
 </body>
 </html>
